@@ -1,0 +1,14 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+scikit-learn
+pillow
+finnhub-python
+openai
+xgboost
+transformers
+torch
+psutil
+
